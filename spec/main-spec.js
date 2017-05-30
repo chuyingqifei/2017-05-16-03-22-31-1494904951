@@ -1,4 +1,4 @@
-const main = require('../main/main');
+﻿const main = require('../main/main');
 
 describe('main()', () => {
 
